@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>THIS IS G ROHITH PORTFOLIO</p>
+    <HR>
+    <a href="http://127.0.0.1:5500/EDUCATION.HTML">EDUCATION</a>
+    <HR>
+        <A HREF="http://127.0.0.1:5500/EXPERIANCE.HTML">EXPERIANCE</A>
+        <HR>
+            <A HREF="http://127.0.0.1:5500/PROJECT.HTML">PROJECT</A>
+</body>
+</html>
